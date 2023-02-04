@@ -1,6 +1,6 @@
 function InventoryForm(){
     return(
-        <div className="p-4">
+        <div className="">
             This is the inventory Form 
         </div>
     )

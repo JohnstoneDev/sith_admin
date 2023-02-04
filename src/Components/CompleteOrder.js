@@ -1,6 +1,6 @@
 function CompleteOrders(){
     return(
-        <div className="p-4">
+        <div className="">
             Pending Orders Go Here 
         </div>
     )
